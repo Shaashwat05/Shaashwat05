@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Software Engineering student** 🚀 from VIT Vellore.
+Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Software Engineering student** 🚀 from VIT Vellore.I love to explore various fields od computer science and implement them in my projects. Always up for new and innovative ideas, and always ready to work.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
