@@ -17,9 +17,9 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Software Engine
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern 
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 👨🏽‍💻 I’m currently an Machine Learning intern at **HEURO**.
+- 🌱 I’m currently learning Deep Reinforcement Learning and Genetic Algorithms. 
+- 🤔 My interests are with Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via shaas2000@gmail.com to reach me.
@@ -33,10 +33,8 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Software Engine
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/OpenCv/OpenCv.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
