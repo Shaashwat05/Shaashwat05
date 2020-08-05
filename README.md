@@ -38,5 +38,6 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Software Engine
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Shaashwat05&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaashwat05&hide=javascript,C)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [Shaashwat05](https://github.com/Shaashwat05)
