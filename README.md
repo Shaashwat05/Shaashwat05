@@ -11,17 +11,18 @@
 <br />
 <br />
 
-Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Software Engineering student** 🚀 from VIT Vellore.I love to explore various fields od computer science and implement them in my projects. Always up for new and innovative ideas, and always ready to work.
+Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Science and Engineering student** 🚀 from VIT Vellore.I love to explore various fields of computer science like cryptography, computer vision and implement them in my projects. Always up for new and innovative ideas, and always ready to work.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Machine Learning intern at **HEURO**.
+- 👨🏽‍💻 I’m currently an part-time Machine Learning developer at **HEURO**.
 - 🌱 I’m currently learning Deep Reinforcement Learning and Genetic Algorithms. 
 - 🤔 My interests are with Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 I’m pursuing a Bachelor's degree in Computer Science and Engineering;
 - 💬 Ask me about anything, I am happy to help;
+- :hearts: If you want to collaborate on any projects, especially on the some of the above topics, feel free to contact me;
 - 📫 Please email via shaas2000@gmail.com to reach me.
 
 
