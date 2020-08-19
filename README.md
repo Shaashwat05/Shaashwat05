@@ -51,9 +51,9 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Scienc
 
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Most Used Languages</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaashwat05&hide=javascript,C)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaashwat05&hide=C++)](https://github.com/Shaashwat05/github-readme-stats)
 
 </details>
 
