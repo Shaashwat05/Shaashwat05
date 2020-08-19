@@ -21,7 +21,7 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Scienc
 - 🌱 I’m currently learning Deep Reinforcement Learning and Genetic Algorithms. 
 - 🤔 My interests are with Computer vision, Reinforcement Learning, etc..;
 - 💬 Ask me about anything, I am happy to help;
-- :hearts: If you want to collaborate on any projects, especially on the some of the above topics, feel free to contact me;
+- :hearts: If you want to collaborate on any projects, especially based on some of the above topics, feel free to contact me;
 - 📫 Please email via shaas2000@gmail.com to reach me.
 
 <br/>
