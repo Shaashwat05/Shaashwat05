@@ -48,10 +48,11 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Scienc
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Background for video conferencing using Machine Learning](https://shaas2000.medium.com/virtual-background-for-video-conferencing-using-machine-learning-dfba17d90aa9)
 - [Movement Classification](https://medium.com/@shaas2000/movement-classification-b98614084ec6)                  
 - [Genetic Algorithm and Its Wide Spectrum](https://medium.com/swlh/genetic-algorithm-and-its-wide-spectrum-4d6d41ea18ed)
 - [MNIST Classifier using Genetic CNN](https://medium.com/analytics-vidhya/mnist-classifier-using-genetic-cnn-e1e860ecc2e9)
-- [Magic Wand using RPI and OpenCV](https://iot4beginners.com/magic-wand-using-raspberry-pi-and-opencv/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
