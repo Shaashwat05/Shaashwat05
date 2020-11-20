@@ -48,9 +48,9 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Scienc
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolution of Graph Computation and Machine Learning](https://towardsdatascience.com/evolution-of-graph-computation-and-machine-learning-3211e8682c83)
 - [Virtual Background for video conferencing using Machine Learning](https://shaas2000.medium.com/virtual-background-for-video-conferencing-using-machine-learning-dfba17d90aa9)
-- [Movement Classification](https://medium.com/@shaas2000/movement-classification-b98614084ec6)                  
-- [Genetic Algorithm and Its Wide Spectrum](https://medium.com/swlh/genetic-algorithm-and-its-wide-spectrum-4d6d41ea18ed)
+- [Motion capture and Estimation using Python](https://medium.com/@shaas2000/movement-classification-b98614084ec6)                  
 - [MNIST Classifier using Genetic CNN](https://medium.com/analytics-vidhya/mnist-classifier-using-genetic-cnn-e1e860ecc2e9)
 
 <!-- BLOG-POST-LIST:END -->
