@@ -48,6 +48,7 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Scienc
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Essential Skill for every Data Scientist](https://towardsdatascience.com/an-essential-skill-for-every-data-scientist-d435fd0109f1)
 - [Evolution of Graph Computation and Machine Learning](https://towardsdatascience.com/evolution-of-graph-computation-and-machine-learning-3211e8682c83)
 - [Virtual Background for video conferencing using Machine Learning](https://shaas2000.medium.com/virtual-background-for-video-conferencing-using-machine-learning-dfba17d90aa9)
 - [Motion capture and Estimation using Python](https://medium.com/@shaas2000/movement-classification-b98614084ec6)                  
