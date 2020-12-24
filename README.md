@@ -1,4 +1,6 @@
-### Hey 👋, I'm Shaashwat <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaashwat05" alt="Shaashwat05" /> </p>
+### Hey 👋, I'm Shaashwat 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaashwat05" alt="Shaashwat05" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaashwat%20Agrawal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)
 [![medium](https://img.shields.io/badge/Medium-Shaashwat%20Agrawal-yellow?style=for-the-badge&logo=medium)](https://shaas2000.medium.com/)
