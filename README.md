@@ -1,17 +1,8 @@
-### Hey 👋, I'm Shaashwat
+### Hey 👋, I'm Shaashwat <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaashwat05" alt="Shaashwat05" /> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaashwat05" alt="Shaashwat05" /> </p>
-
-
-<a href="https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/">
-  <img align="left" alt="Shaashwat's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</a>
-<a href="https://www.instagram.com/__shaashwat__/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaashwat%20Agrawal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)
+[![medium](https://img.shields.io/badge/Medium-Shaashwat%20Agrawal-yellow?style=for-the-badge&logo=medium)](https://shaas2000.medium.com/)
+[![medium](https://img.shields.io/badge/Twitter-Shaashwat%20Agrawal-green?style=for-the-badge&logo=Twitter)](https://twitter.com/ShaashwatAgraw1)
 <br />
 <br />
 
@@ -21,9 +12,9 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Scienc
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an part-time Machine Learning developer at **HEURO**.
-- 🌱 I’m currently learning Deep Reinforcement Learning and Genetic Algorithms. 
-- 🤔 My interests are with Computer vision, Reinforcement Learning, etc..;
+- 👨🏽‍💻 Actively Looking for Internship and work opportunities.
+- 🌱 I’m currently learning Deep Reinforcement Learning, Transfer Learning and Optimization Algorithms. 
+- 🤔 My interests are with Motion Analysis, Reinforcement Learning, Computer Vision etc...
 - 💬 Ask me about anything, I am happy to help;
 - :hearts: If you want to collaborate on any projects, especially based on some of the above topics, feel free to contact me;
 - 📫 Please email via shaas2000@gmail.com to reach me.
@@ -46,7 +37,7 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Scienc
 <br/>
 
 ### 📕 Latest Blog Posts
-
+  
 <!-- BLOG-POST-LIST:START -->
 - [An Essential Skill for every Data Scientist](https://towardsdatascience.com/an-essential-skill-for-every-data-scientist-d435fd0109f1)
 - [Evolution of Graph Computation and Machine Learning](https://towardsdatascience.com/evolution-of-graph-computation-and-machine-learning-3211e8682c83)
@@ -73,5 +64,3 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Scienc
 
 </details>
 <br/>
-
-⭐️ From [Shaashwat05](https://github.com/Shaashwat05)
