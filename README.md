@@ -8,15 +8,15 @@
 <br />
 <br />
 
-Hi there, I'm **Shaashwat Agrawal**, an **AI Enthusiast** and a Graduate Student from Northwestern University, Illinois pursuing **Masters of Science in Artificial Intelligence**. I love to explore various fields of computer science like cryptography, computer vision and implement them in my projects. Always up for new and innovative ideas, and always ready to work.
+Hi there, I'm **Shaashwat Agrawal**, an **AI Enthusiast** and a Graduate from Northwestern University, Illinois with a Master's in **Artificial Intelligence**. I love to explore various fields of AI like Generative, and Computer Vision and implement them in my projects. Always up for new and innovative ideas, and always ready to work.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Actively Looking for Internship and work opportunities in US.
-- 🌱 I’m currently learning Explainable AI, Federated Learning and Data Science. 
-- 🤔 My interests are with Motion Analysis, Data Analysis, Computer Vision etc...
+- 👨🏽‍💻 Actively Looking for full-time opportunities in US.
+- 🌱 I’m currently learning Explainable AI, Generative and Data Science. 
+- 🤔 My interests are in Reliable Machine Learning, Cloud Computing, and Computer Vision, etc...
 - 💬 Ask me about anything, I am happy to help;
 - :hearts: If you want to collaborate on any projects, especially based on some of the above topics, feel free to contact me;
 - 📫 Please email via shaas2000@gmail.com to reach me.
